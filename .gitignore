@@ -1,0 +1,44 @@
+# dependencies
+node_modules/
+
+# Electron / Vite output
+desktop/dist/
+desktop/electron/ui/
+desktop/electron/node_modules/
+desktop/.cache/
+.output/
+.nitro/
+.tanstack/
+.vite/
+dist/
+
+# env / logs
+*.log
+.env
+.env.*
+!.env.example
+*.local
+.grok
+.node_modules.lock
+AGENTS.project.md
+AGENTS.md
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# sandbox / QA
+screenshots/
+artifacts/
+attachments/
+public/__grok/
+
+
+# python
+__pycache__/
+*.pyc
+
+# packed blobs
+*.asar

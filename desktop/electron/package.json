@@ -1,0 +1,9 @@
+{
+  "name": "geassline",
+  "productName": "Geassline",
+  "version": "1.0.0",
+  "description": "Geassline SSH workstation",
+  "main": "main.cjs",
+  "author": "Geassline",
+  "license": "MIT"
+}
